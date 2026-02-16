@@ -1,3 +1,0 @@
-Temp/ScriptUpdater/325267976/1644640056_jump.cs => Assets/script/jump.cs
-Temp/ScriptUpdater/325267976/683653227_PlayerMovement.cs => Assets/script/PlayerMovement.cs
-Temp/ScriptUpdater/325267976/1995046119_EnemyPatrol.cs => Assets/script/EnemyPatrol.cs
